@@ -1,3 +1,4 @@
 # 404
 ## avances del video face recognition
-pys & docs 
+## Principal: proyecto-lab y mp3
+Los demás docs son los fuente
